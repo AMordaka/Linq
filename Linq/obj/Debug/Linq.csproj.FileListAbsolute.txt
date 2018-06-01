@@ -1,0 +1,10 @@
+C:\Users\Arek\Desktop\Linq\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Arek\Desktop\Linq\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Arek\Desktop\Linq\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.Form1.resources
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Arek\Desktop\Linq\Linq\Linq\obj\Debug\Linq.pdb
